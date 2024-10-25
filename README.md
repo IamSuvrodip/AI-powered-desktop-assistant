@@ -21,7 +21,7 @@ An advanced desktop assistant that responds to your voice commands, performing a
 Clone this repository and install required packages:
 ```bash
 git clone https://github.com/IamSuvrodip/AI-powered-desktop-assistant.git
-cd AI-Desktop-Assistant
+cd AI-powered-desktop-assistant
 pip install -r requirements.txt
 ```
 ## 🚀 Usage
